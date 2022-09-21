@@ -1,0 +1,16 @@
+p {
+    color: white;
+    font-size: 24px;
+    font-family: Arial;
+    text-align: center;
+}
+
+body {
+    width: 800px;
+    margin: auto;
+    background-color: rgb(114, 236, 152);
+}
+
+#t {
+    width: 800px;
+}
